@@ -1,7 +1,14 @@
 {
-  "homepageUrl": "https://marcelloromanelli.com",
-  "brandName": "PROmanelli",
-  "headerLayout": "1",
-  "headerBackgroundColor": "#cecece",
-  "buttonColor": "#39ff14"
+    "partners": [
+        {
+            "id": "M511FF3",
+            "customizations": {
+                "homepageUrl": "https://marcelloromanelli.com",
+                "brandName": "PROmanelli",
+                "headerLayout": "1",
+                "headerBackgroundColor": "#cecece",
+                "buttonColor": "#39ff14"
+            }
+        }
+    ] 
 }
