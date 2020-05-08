@@ -3,11 +3,25 @@
         {
             "id": "M511FF3",
             "customizations": {
-                "homepageUrl": "https://marcelloromanelli.com",
-                "brandName": "PROmanelli",
-                "headerLayout": "1",
-                "headerBackgroundColor": "#cecece",
-                "buttonColor": "#39ff14"
+                "partner_id": "M511FF3",
+                "brand_name": "PROmanelli",
+                "homepage_url": "https://marcelloromanelli.com",
+                "header_layout": "left",
+                "header_bg_color": "#cecece",
+                "image": "https://cdn.getyourguide.com/img/co_branding_picture-181018-1485477675.jp",
+                "button_color": "#39ff14",
+                "display_gyg_powered": true,
+                "display_login_signup": true,
+                "display_newsletter_signup": true,
+                "display_wishlist": true,
+                "display_wishlist_button_on_cards": true,
+                "display_add_to_calendar": true,
+                "display_cart": true,
+                "display_redeem_coupon": true,
+                "custom_cities": "123",
+                "custom_pois": "444",
+                "excluded_categories": "555",
+                "excluded_tours": "111"
             }
         }
     ] 
