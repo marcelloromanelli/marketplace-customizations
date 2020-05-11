@@ -23,6 +23,30 @@
                 "excluded_categories": "555",
                 "excluded_tours": "111"
             }
+        },
+        {
+            "id": "666",
+            "customizations": {
+                "partner_id": "666",
+                "brand_name": "PROmanelli - ribbon",
+                "homepage_url": "https://ribbon.com",
+                "header_layout": "ribbon",
+                "header_bg_color": "#ffff00",
+                "image": "https://cdn.getyourguide.com/img/co_branding_picture-160820-3717549305.jpg",
+                "button_color": "#39ff14",
+                "display_gyg_powered": true,
+                "display_login_signup": true,
+                "display_newsletter_signup": true,
+                "display_wishlist": true,
+                "display_wishlist_button_on_cards": true,
+                "display_add_to_calendar": true,
+                "display_cart": true,
+                "display_redeem_coupon": true,
+                "custom_cities": "123",
+                "custom_pois": "444",
+                "excluded_categories": "555",
+                "excluded_tours": "111"
+            }
         }
     ] 
 }
